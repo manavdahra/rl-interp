@@ -1,0 +1,11 @@
+# Environment
+.venv
+
+# Caches
+__pycache__
+
+# IDE
+.vscode
+
+# Data directories
+data_dir*
