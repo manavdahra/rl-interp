@@ -10,3 +10,4 @@ __pycache__
 # Data directories
 data_dir*
 output
+out
