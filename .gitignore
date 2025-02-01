@@ -1,5 +1,6 @@
 # Environment
 .venv
+.DS_Store
 
 # Caches
 __pycache__
